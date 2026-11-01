@@ -1,41 +1,40 @@
 # Hi, I'm Kaitai 👋
 
-**Software Engineering Student · Aspiring AI Application & Agent Engineer**
+**Software Engineering Student · Learning AI Application Development**
 
-I'm interested in turning large language model capabilities into useful, reliable software. My focus is not only on prompting models, but also on the engineering around them: tools, memory, evaluation, permissions, and deployment.
+I'm at the beginning of my software engineering journey. I'm interested in AI applications and agent systems, and I'm working toward building the foundations needed to create them independently.
 
-## Current Focus
+This GitHub is a record of what I'm learning and building—not a claim that I've already mastered these technologies.
 
-- **LLM applications** — API integration, structured outputs, and tool/function calling
-- **Agent engineering** — tool orchestration, conversational memory, human-in-the-loop workflows, and cost-aware execution
-- **Engineering foundations** — Python, C++, data structures, algorithms, Git, and software design
+## What I'm Learning
 
-## What I Value
+- **Programming:** Python and C++
+- **Computer science foundations:** data structures, algorithms, and problem solving
+- **Development workflow:** Git, GitHub, debugging, and writing clear documentation
+- **Long-term direction:** LLM applications, RAG, and AI agents
 
-- Build end-to-end projects that others can run and inspect.
-- Document architecture, trade-offs, limitations, and setup steps.
-- Test important behavior instead of relying on impressive demos.
-- Treat privacy, security, permissions, and operating cost as first-class design constraints.
+These are learning areas. My proficiency is still developing.
 
-## Current Direction
+## Learning Roadmap
 
-I'm experimenting with personal AI-agent workflows, especially memory, tool use, approval-gated actions, and budget-aware execution. These are early-stage explorations—not production-ready products yet.
+1. Strengthen programming fundamentals and write code independently.
+2. Practice data structures and algorithms; document solutions and lessons learned.
+3. Build small Python projects with clear requirements and tests.
+4. Learn how to use model APIs and build a simple, useful LLM application.
+5. Gradually explore retrieval, tool calling, agent workflows, evaluation, and deployment.
 
-I'm also strengthening my programming and computer-science fundamentals while working toward a portfolio of practical AI applications.
+## How I Use This GitHub
 
-## Roadmap
+- Publish projects only when I can explain how they work.
+- Include setup instructions, examples, and tests where appropriate.
+- Clearly distinguish exercises, experiments, and completed projects.
+- Record mistakes, improvements, and what I learned along the way.
+- Keep private study materials and personal data out of public repositories.
 
-1. Publish a small, well-documented LLM application with a reproducible demo.
-2. Build a RAG project and evaluate retrieval quality.
-3. Develop an agent workflow with tools, memory, and explicit permission boundaries.
-4. Add automated tests, observability, and deployment documentation to each substantial project.
+## Current Status
 
-## 关于我
-
-我是一名软件工程专业学生，正在向 **AI 应用开发 / Agent 工程** 方向积累能力。
-
-这个主页会逐步收录真正完成、可运行、可验证的项目。对于尚在实验阶段的内容，我会明确标注进度，不把概念验证包装成成熟产品。
+I'm still learning the fundamentals. I don't claim professional-level experience in AI or agent engineering yet. My goal is to build that ability step by step through real code, careful documentation, and projects I can demonstrate and explain.
 
 ---
 
-*Build useful things. Verify what they do. Keep learning.*
+*Learn the fundamentals. Build small things. Improve them honestly.*
