@@ -1,4 +1,4 @@
-# Hi, I'm Kaitai 👋
+# Hi, I'm CNCat 👋
 
 **Software Engineering Student · Learning AI Application Development**
 
